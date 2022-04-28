@@ -34,9 +34,10 @@
   --border-color-alt: var(--light-brown);
 
   --th-color: var(--cream);
-  --tr-color: var(--cream);
+  --th-font-color: var(--brown);
+  --tr-color: var(--light-brown);
 
-  --syntax-highlighting-background: var(--cream);
+  --syntax-highlighting-background: var(--light-brown);
 }
 
 :root[dark] {
