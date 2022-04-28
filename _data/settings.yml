@@ -13,14 +13,16 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Theory'
-      url: '/theory/'
+    - title: 'Music Theory'
+      url: '/music-theory/'
     - title: 'Instruments'
       url: '/instruments/'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
+    - title: 'Blog'
+      url: '/blog/'
 
 
 #-------------------------------
