@@ -1,0 +1,12 @@
+---
+title: "A list of instruments"
+layout: default
+---
+
+{% for instrument in site.instruments %}
+  <h2>
+    <a href="{{ instrument.url }}">
+      {{ instrument.name }}
+    </a>
+  </h2>
+{% endfor %}

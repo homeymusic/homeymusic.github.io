@@ -37,10 +37,6 @@ sass:
 # Collections
 
 collections:
-  - intervals
-  - chords
-  - modes
-  - progressions
-  - notes
-  - rhythms
+  instruments:
+    output: true
 
