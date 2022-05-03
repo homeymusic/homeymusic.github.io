@@ -33,9 +33,10 @@
     3.10-Article
     3.11-Contact
 :: 4-Layouts
-    4.1-Home Page
-    4.2-Post Page
-    4.3-Tags Page
+    4.1-Post Page
+    4.2-Tags Page
+    4.3-Meter Page
+    
 <<<<<<<<<<<<<<<<<<<<<<<<<<<< */
 
 
@@ -105,3 +106,5 @@
 @import '4-layouts/post';
 /* >>>>>>>>>>>>>> :: 4.2-Tags Page <<<<<<<<<<<<<<< */
 @import '4-layouts/tags-page';
+/* >>>>>>>>>>>>>> :: 4.3-Meter Page <<<<<<<<<<<<<<< */
+@import '4-layouts/meter';

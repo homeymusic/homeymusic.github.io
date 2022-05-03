@@ -1,7 +1,7 @@
 ---
 name: "Homey-O-Meter"
 title: "Homey-O-Meter"
-layout: page
+layout: meter
 description: Allows you to see the consonance and quality of chords and scales so that you can explore ideas while making music.
 ---
 
