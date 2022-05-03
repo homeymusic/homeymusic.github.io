@@ -1,5 +1,10 @@
 .meter {
+    overflow-x: scroll;
 
+    .btn-group {
+	min-width: 1200px;
+    }
+    
     .btn-group button {
 	border: 2px solid var(--cream);
 	padding: 5px 5px; /* Some padding */
@@ -12,6 +17,10 @@
 	/* do something? */
     }  
 
+    .btn-group .homey-type {
+	text-transform: capitalize;
+    }
+    
     .btn-group .homey {
 	background-color: var(--homey);
 	color: var(--brown);

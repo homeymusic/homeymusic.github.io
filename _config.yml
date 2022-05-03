@@ -39,4 +39,6 @@ sass:
 collections:
   instruments:
     output: true
+  intervals:
+    output: true
 
