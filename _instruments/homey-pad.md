@@ -1,6 +1,6 @@
 ---
 name: Homey Pad
-layout: default
+layout: page
 description: "Coming soon: a keyboard designed for music maker happiness."
 ---
 # Homey Pad
