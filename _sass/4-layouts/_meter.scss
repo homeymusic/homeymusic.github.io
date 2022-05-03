@@ -2,7 +2,7 @@
     overflow-x: scroll;
 
     .btn-group {
-	min-width: 1053px;
+	min-width: 650px;
     }
     
     .btn-group button {
@@ -23,6 +23,8 @@
 
     .homey-data {
 	font-family: monospace;
+	font-size: 60%;
+	font-weight: bold;
     }
     
     .btn-group .homey {
@@ -55,8 +57,8 @@
     .switch {
 	position: relative;
 	display: inline-block;
-	width: 60px;
-	height: 34px;
+	width: 30px;
+	height: 17px;
     }
     
     .switch input { 
@@ -80,10 +82,10 @@
     .slider:before {
 	position: absolute;
 	content: "";
-	height: 26px;
-	width: 26px;
-	left: 2px;
-	bottom: 2px;
+	height: 11px;
+	width: 11px;
+	left: 1px;
+	bottom: 1px;
 	background-color: var(--brown);
 	-webkit-transition: .4s;
 	transition: .4s;
@@ -98,9 +100,9 @@
     }
 
     input:checked + .slider:before {
-	-webkit-transform: translateX(26px);
-	-ms-transform: translateX(26px);
-	transform: translateX(26px);
+	-webkit-transform: translateX(12px);
+	-ms-transform: translateX(12px);
+	transform: translateX(12px);
     }
 
     .homey input:checked + .slider:before {
