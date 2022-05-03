@@ -1,17 +1,21 @@
 ---
 layout: default
 ---
-<div class="meter">
-  <div class="btn-group" style="width:100%">
-    {% for interval in site.intervals %}
-    <button class={{ interval.homeyType }}>
-      <label class="switch">
-	<input type="checkbox">
-	<span class="slider round"></span>
-      </label>
-      <div class="homey-type">{{ interval.homeyType }}</div>
-      <div class="homey-id">{{ interval.homeyID }}</div>
-    </button>
-    {% endfor %}
-  </div>  
+<div class="container">
+  <div class="meter">
+    <div class="btn-group" style="width:100%">
+      {% for interval in site.intervals %}
+      <button class={{ interval.homeyType }}>
+	<label class="switch">
+	  <input type="checkbox">
+	  <span class="slider round"></span>
+	</label>
+	<div class="homey-data">
+	  <div class="homey-type">{{ interval.homeyType }}</div>
+	  <div class="homey-id">{{ interval.homeyID }}</div>
+	</div>
+      </button>
+      {% endfor %}
+    </div>  
+  </div>
 </div>
