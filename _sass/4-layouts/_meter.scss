@@ -2,7 +2,7 @@
     overflow-x: scroll;
 
     .btn-group {
-	min-width: 1200px;
+	min-width: 1053px;
     }
     
     .btn-group button {
@@ -19,6 +19,10 @@
 
     .btn-group .homey-type {
 	text-transform: capitalize;
+    }
+
+    .homey-data {
+	font-family: monospace;
     }
     
     .btn-group .homey {
