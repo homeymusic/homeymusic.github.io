@@ -143,4 +143,6 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   });
 
+  document.getElementById('windy06').scrollIntoView({behavior: "smooth", inline: "center"});
+
 });
