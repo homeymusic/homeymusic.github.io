@@ -35,6 +35,10 @@ portfolio:
       title: Music Perception Research
       description: 'Coding mami.codi: an auditory model of major-minor and consonance dissonance perception.'
 
+    - image: /images/diatonic-triads.png
+      title: Music Theory Research
+      description: 'Discovering Archtypal Triads: a search for the most representative chord and chord progression for each diatonic mode.'
+      
 #-------------------------------
 # Footer Settings
 social:
