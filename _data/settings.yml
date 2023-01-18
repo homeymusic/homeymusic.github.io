@@ -27,21 +27,13 @@ hero:
 portfolio:
   portfolio__title: Projects
   portfolio__gallery:
-    - image: /images/logo.png
-      title: Homey Pad
-      description: A digital keyboard based on symmetrical interval patterns and dynamic tonic selection.
+    - image: /images/homey-pad.png
+      title: Digital Musical Instruments
+      description: 'Homey Pad: a digital keyboard based on symmetrical interval patterns and dynamic tonic selection.'
 
-    - image: /images/logo.png
-      title: Homey Shed
-      description: A collection of music-making tools to explore chords and progressions.
-
-    - image: /images/logo.png
+    - image: /images/music-perception.png
       title: Music Perception Research
-      description: An auditory theory of major-minor and consonance dissonance perception.
-
-    - image: /images/logo.png
-      title: Music Theory Research
-      description: A discovery of archetypal triads in diatonic and chromatic modes.
+      description: 'mami.codi: an auditory theory of major-minor and consonance dissonance perception.'
 
 #-------------------------------
 # Footer Settings
