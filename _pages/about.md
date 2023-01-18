@@ -6,3 +6,4 @@ image: '/images/detroit.png'
 ---
 
 [Brian McAuliff Mulloy](/about/brian), Founder
+{: style="text-align: center;"}

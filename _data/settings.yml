@@ -29,11 +29,11 @@ portfolio:
   portfolio__gallery:
     - image: /images/homey-pad.png
       title: Digital Musical Instruments
-      description: 'Homey Pad: a digital keyboard based on symmetrical interval patterns and dynamic tonic selection.'
+      description: 'Designing Homey Pad: a digital keyboard based on symmetrical interval patterns and dynamic tonic selection.'
 
     - image: /images/music-perception.png
       title: Music Perception Research
-      description: 'mami.codi: an auditory theory of major-minor and consonance dissonance perception.'
+      description: 'Coding mami.codi: an auditory model of major-minor and consonance dissonance perception.'
 
 #-------------------------------
 # Footer Settings
