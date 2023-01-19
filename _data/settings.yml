@@ -25,11 +25,11 @@ hero:
 #-------------------------------
 # Portfolio Settings
 portfolio:
-  portfolio__title: Projects
+  portfolio__title: Sample Projects
   portfolio__gallery:
     - image: /images/homey-pad.png
       title: Digital Musical Instruments
-      description: 'Designing Homey Pad: a digital keyboard based on symmetrical interval patterns and dynamic tonic selection.'
+      description: 'Designing Homey Pad: a digital keyboard based on reflection-symmetrical intervals and dynamic tonic selection.'
 
     - image: /images/music-perception.png
       title: Music Perception Research
@@ -37,7 +37,7 @@ portfolio:
 
     - image: /images/diatonic-triads.png
       title: Music Theory Research
-      description: 'Discovering Archtypal Triads: a search for the most representative chord and chord progression for each diatonic mode.'
+      description: 'Discovering Archetypal Triads: a heuristic search for the most representative chord and chord progression for each diatonic mode.'
       
 #-------------------------------
 # Footer Settings
