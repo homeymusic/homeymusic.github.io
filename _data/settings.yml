@@ -33,12 +33,12 @@ portfolio:
 
     - image: /images/music-perception.png
       title: Music Perception Research
-      description: 'Coding mami.codi: an auditory model of major-minor and consonance dissonance perception.'
+      description: 'Coding mami.codi: an auditory model of major-minor and consonance-dissonance perception.'
 
     - image: /images/diatonic-scales.png
       title: Music Theory Research
-      description: 'Discovering Diatonic Archetypes: a search for the most representative chord and chord progression for each diatonic mode.'
-      
+      description: 'Exploring Diatonic Modes: a search for the most representative chords and chord progressions for each diatonic mode.'
+
 #-------------------------------
 # Footer Settings
 social:
