@@ -28,7 +28,7 @@ portfolio:
   portfolio__title: Sample Projects
   portfolio__gallery:
     - image: /images/homey-pad.png
-      title: Digital Musical Instruments
+      title: Digital Musical Instrument Development
       description: 'Designing Homey Pad: a digital keyboard based on reflection-symmetrical intervals and dynamic tonic selection.'
 
     - image: /images/music-perception.png
