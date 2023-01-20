@@ -33,7 +33,7 @@ portfolio:
 
     - image: /images/diatonic-scales.png
       title: Music Theory Research
-      description: 'Exploring Diatonic Modes: a search for the most representative chords and chord progressions for each diatonic mode.'
+      description: 'Exploring Paradigms: a heuristic search for chords and chord progressions in diatonic and chromatic modes.'
 
     - image: /images/music-perception.png
       title: Music Perception Research
