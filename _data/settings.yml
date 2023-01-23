@@ -29,7 +29,7 @@ portfolio:
   portfolio__gallery:
     - image: /images/homey-pad.png
       title: Musical Instrument Development
-      description: 'Designing Homey Pad: a digital keyboard based on reflection-symmetrical interval patterns and dynamic tonic selection.'
+      description: 'Designing Homey Pad: a digital keyboard based on reflection-symmetrical interval patterns, ergonomic octave-equivalents and dynamic tonic selection.'
 
     - image: /images/diatonic-scales.png
       title: Music Theory Research
