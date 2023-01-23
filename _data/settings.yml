@@ -15,6 +15,8 @@ menu__settings:
       url: '/'
     - title: 'About'
       url: '/about/'
+    - title: 'Contact'
+      url: '/contact/'
 
 #-------------------------------
 # Hero Settings
@@ -51,7 +53,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: brian@homeumusic.com # Add your email for contact form
+  email: whatupdoe@homeymusic.com # Add your email for contact form
   description: Homey Music is designed for music maker happiness.
 
 # NOTE
