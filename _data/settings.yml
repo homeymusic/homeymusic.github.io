@@ -35,11 +35,11 @@ portfolio:
 
     - image: /images/diatonic-scales.png
       title: Music Theory Research
-      description: 'Exploring Paradigms: a heuristic search for chords and chord progressions in diatonic and chromatic modes.'
+      description: 'Exploring Paradigms: a <a href="https://github.com/homeymusic/analysis.mami.codi.R">heuristic search</a> for chords and chord progressions in diatonic and chromatic modes.'
 
     - image: /images/music-perception.png
       title: Music Perception Research
-      description: 'Coding mami.codi: an auditory model of major-minor and consonance-dissonance perception.'
+      description: 'Coding <a href="https://github.com/homeymusic/mami.codi.R">mami.codi</a>: an auditory model of major-minor and consonance-dissonance perception.'
 
 #-------------------------------
 # Footer Settings
