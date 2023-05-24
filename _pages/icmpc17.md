@@ -1,6 +1,6 @@
 ---
 layout: page
 title: ICMPC 17
-permalink: /conferences/icmpc17
+permalink: /icmpc17
 ---
 Information
