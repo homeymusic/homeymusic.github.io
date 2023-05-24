@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Major-Minor Consonance-Dissonance Perception
+title: MaMiCoDi
 permalink: /research/MaMiCoDi
 ---
-Information
+Major-Minor Consonance-Dissonance Perception
