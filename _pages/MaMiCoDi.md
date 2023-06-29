@@ -4,7 +4,9 @@ title: "Research > MaMiCoDi"
 permalink: /research/MaMiCoDi
 ---
 
-## ICMPC17 Poster: A Computational Model of Major-Minor and Consonance-Dissonance Perception
+## ICMPC17 Poster Tokyo, Japan 2023
+
+### A Computational Model of Major-Minor and Consonance-Dissonance Perception
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRY-20NtVFdznYj2fkgJp59ltoo5Y2MmXfUZtkw0KPVIb4XQDWIdG2Vnd_itxSS341EDGu4jd2vZ1dn/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
     
