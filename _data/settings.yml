@@ -13,6 +13,8 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'Research'
+      url: '/research/'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
