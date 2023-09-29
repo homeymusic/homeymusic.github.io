@@ -24,7 +24,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Homey Music
-  hero__description: Designed for Music Maker Happiness
+  hero__description: Designed for music maker joy
 
 #-------------------------------
 # Portfolio Settings
@@ -56,7 +56,7 @@ social:
 # Contact Settings
 contact:
   email: whatupdoe@homeymusic.com # Add your email for contact form
-  description: Homey Music is designed for music maker happiness.
+  description: Homey Music is designed for music maker joy.
 
 # NOTE
 # Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
