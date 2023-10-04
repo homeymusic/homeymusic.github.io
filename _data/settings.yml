@@ -1,11 +1,10 @@
 #-------------------------------
 # Site Settings
 
-
 title: Homey Music
 logo: '/images/logo.png'
 author: Brian McAuliff Mulloy
-description: Designed for music maker joy
+description: Designed for music maker joy
 
 
 #-------------------------------
@@ -25,7 +24,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Homey Music
-  hero__description: Designed for music maker joy
+  hero__description: Designed for music maker joy
 
 #-------------------------------
 # Portfolio Settings
